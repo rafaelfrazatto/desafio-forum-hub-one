@@ -1,6 +1,4 @@
-package hub.forum.api.dto;
-
-import hub.forum.api.model.Topico;
+package hub.forum.api.domain.topico;
 
 import java.time.LocalDateTime;
 

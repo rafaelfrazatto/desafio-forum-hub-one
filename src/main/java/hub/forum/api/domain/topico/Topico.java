@@ -1,8 +1,7 @@
-package hub.forum.api.model;
+package hub.forum.api.domain.topico;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
-import java.util.List;
 
 @Entity
 public class Topico {

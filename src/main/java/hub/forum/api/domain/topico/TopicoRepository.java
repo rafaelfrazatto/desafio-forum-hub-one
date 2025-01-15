@@ -1,6 +1,5 @@
-package hub.forum.api.repository;
+package hub.forum.api.domain.topico;
 
-import hub.forum.api.model.Topico;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

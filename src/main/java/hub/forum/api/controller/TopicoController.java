@@ -1,9 +1,9 @@
 package hub.forum.api.controller;
 
-import hub.forum.api.dto.TopicoRequestDTO;
-import hub.forum.api.dto.TopicoResponseDTO;
-import hub.forum.api.model.Topico;
-import hub.forum.api.repository.TopicoRepository;
+import hub.forum.api.domain.topico.TopicoRequestDTO;
+import hub.forum.api.domain.topico.TopicoResponseDTO;
+import hub.forum.api.domain.topico.Topico;
+import hub.forum.api.domain.topico.TopicoRepository;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
