@@ -50,3 +50,4 @@ O desafio era desenvolver uma API Rest para o Fórum Hub, um fórum onde um usu�
 
 ## Badge de Conclusão
 
+<img src="./img/Badge-Spring.png" alt="Badge de conclusão do challenge." width=500px style="margin-right: 25px; margin-left: 25px;">
