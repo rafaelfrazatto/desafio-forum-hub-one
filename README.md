@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Este desafio foi proposto como parte fundamental na trilha **"Java e Spring Framework G7 - ONE (Oracle Next Education)"**, mais especificamente do grupo de aulas sobre **API REST com Java e Spring Boot**, destinada aos alunos da especialização em back-end do programa ONE, desenvolvido pela **Alura** em parceria com a **Oracle**. </br>
+Este desafio foi proposto como parte fundamental na trilha **"Java e Spring Framework G7 - ONE (Oracle Next Education)"**, mais especificamente do grupo de aulas com o tema **API REST com Java e Spring Boot**, destinada aos alunos da especialização em back-end do programa ONE, desenvolvido pela **Alura** em parceria com a **Oracle**. </br>
 O projeto visa aplicar todos os conteúdos aprendidos durantes os cursos da trilha em questão e das anteriores, fazendo o uso principalmente do Spring Boot, criação de uma API Rest, JPA, autenticação e banco de dados (MySQL).</br>
 O desafio era desenvolver uma API Rest para o Fórum Hub, um fórum onde um usuário pode fazer uma postagem de um novo tópico tirando suas dúvidas, listar todos os tópicos e também exibir, atualizar ou deletar um tópico já existente.</br>
 
@@ -25,7 +25,7 @@ O desafio era desenvolver uma API Rest para o Fórum Hub, um fórum onde um usu�
    
 3. **Obter o Projeto:** Faça o clone do projeto em sua máquina local.
    ```bash
-   git clone https://github.com/seu-usuario/forum-hub.git
+   git clone https://github.com/rafaelfrazatto/desafio-forum-hub-one.git
    cd forum-hub
    ```
    
